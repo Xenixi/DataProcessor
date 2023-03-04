@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.cu": "cuda-cpp",
+        "*.cuh": "cuda-cpp",
+        "": "",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "string": "cpp"
+    }
+}
